@@ -8,6 +8,7 @@ Thumbs.db
 .idea/
 .vscode/
 .cursor/
+.obsidian/
 *.swp
 *.swo
 *~
