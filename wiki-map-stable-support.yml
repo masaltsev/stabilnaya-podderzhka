@@ -1,0 +1,100 @@
+# Пример wiki-map.yml для репозитория «Стабильная поддержка»
+# Соответствует структуре SUMMARY.md; для тестов и синка с Яндекс.Вики.
+# Репозиторий: ~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Внуки/репозитории/Стабильная поддержка
+
+root_url: "/proekty-fonda/stable-support"
+
+pages:
+  # Общие сведения
+
+  - file: "Социальная франшиза «Стабильная поддержка»_ системная помощь пожилым людям.md"
+    wiki_path: "/proekty-fonda/stable-support/franchise"
+    title: "Социальная франшиза «Стабильная поддержка»"
+
+  # Методические материалы — модель проекта и роли
+  - file: "Методические материалы/00 - формальное описание проекта.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/formal-description"
+    title: "Формальное описание проекта"
+
+  - file: "Методические материалы/01 - Волонтерства сопровождения - суть, роли, модель, система - ИТОГ.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/volunteering-essence"
+    title: "Волонтерство сопровождения: суть, роли, модель, система"
+
+  - file: "Методические материалы/02 - модель и ключевые роли.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/model-and-roles"
+    title: "Модель и ключевые роли"
+
+  - file: "Методические материалы/04 - Обоснование приоритетных направлений - концепция Я - Ты.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/priority-directions"
+    title: "Обоснование приоритетных направлений (концепция Я — Ты)"
+
+  # Методические материалы — благополучатели и пары
+  - file: "Методические материалы/03 - Портрет и потребности благополучателей.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/beneficiaries-portrait"
+    title: "Портрет и потребности благополучателей"
+
+  - file: "Методические материалы/07 - Пара - волонтер - подопечный.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/volunteer-beneficiary-pair"
+    title: "Пара «волонтер — подопечный»"
+
+  # Методические материалы — волонтеры и координация
+  - file: "Методические материалы/05 - Границы ответственности и трудности волонтеров.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/volunteer-boundaries"
+    title: "Границы ответственности и трудности волонтеров"
+
+  - file: "Методические материалы/06 - Цели и функционал волонтеров.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/volunteer-goals"
+    title: "Цели и функционал волонтеров"
+
+  - file: "Методические материалы/08 - Функционал координаторов и супервизия.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/coordinators-supervision"
+    title: "Функционал координаторов и супервизия"
+
+  - file: "Методические материалы/09 - О рекрутинге волонтеров.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/recruiting"
+    title: "Рекрутинг волонтеров"
+
+  - file: "Методические материалы/Методичка темы общения.md"
+    wiki_path: "/proekty-fonda/stable-support/methodology/communication-topics"
+    title: "Методичка: темы для общения"
+
+  # Обучение
+  - file: "Обучение/Сценарный план курса для волонтеров сопровождения.md"
+    wiki_path: "/proekty-fonda/stable-support/training/course-script"
+    title: "Сценарный план курса для волонтеров сопровождения"
+
+  # Документы и соглашения — для благополучателей
+  - file: "Документы, соглашения, памятки/Анкета для благополучателя для волонтерства сопровождения.md"
+    wiki_path: "/proekty-fonda/stable-support/documents/beneficiary-questionnaire"
+    title: "Анкета благополучателя"
+
+  - file: "Документы, соглашения, памятки/СОГЛАШЕНИЕ с подопечным.md"
+    wiki_path: "/proekty-fonda/stable-support/documents/agreement-beneficiary"
+    title: "Соглашение с подопечным"
+
+  - file: "Документы, соглашения, памятки/Справка для ПОЖИЛОГО ЧЕЛОВЕКА.md"
+    wiki_path: "/proekty-fonda/stable-support/documents/certificate-elderly"
+    title: "Справка для пожилого человека"
+
+  # Документы и соглашения — для волонтеров
+  - file: "Документы, соглашения, памятки/Соглашение с волонтером - NEW.md"
+    wiki_path: "/proekty-fonda/stable-support/documents/agreement-volunteer"
+    title: "Соглашение с волонтером"
+
+  - file: "Документы, соглашения, памятки/Согласие на несовершеннолетних.md"
+    wiki_path: "/proekty-fonda/stable-support/documents/consent-minors"
+    title: "Согласие на несовершеннолетних"
+
+  - file: "Документы, соглашения, памятки/Чек-лист для первичного визита.md"
+    wiki_path: "/proekty-fonda/stable-support/documents/checklist-first-visit"
+    title: "Чек-лист для первичного визита"
+
+  # Документы и соглашения — для координаторов
+  - file: "Документы, соглашения, памятки/Структура ежемесячного отчета координатора.md"
+    wiki_path: "/proekty-fonda/stable-support/documents/coordinator-report"
+    title: "Структура ежемесячного отчета координатора"
+
+  # Исследования
+  - file: "Исследования/Социальное одиночество_ обзор исследований.md"
+    wiki_path: "/proekty-fonda/stable-support/research/social-loneliness"
+    title: "Социальное одиночество: обзор исследований"
