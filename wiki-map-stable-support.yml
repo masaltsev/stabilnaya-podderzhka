@@ -11,6 +11,11 @@ pages:
     wiki_path: "/proekty-fonda/stable-support/franchise"
     title: "Социальная франшиза «Стабильная поддержка»"
 
+  # CRM система
+  - file: "CRM система/CRM для координаторов и чат-боты для волонетров.md"
+    wiki_path: "/proekty-fonda/stable-support/crm/crm-and-bots"
+    title: "CRM для координаторов и чат-боты для волонтеров"
+
   # Методические материалы — модель проекта и роли
   - file: "Методические материалы/00 - формальное описание проекта.md"
     wiki_path: "/proekty-fonda/stable-support/methodology/formal-description"
