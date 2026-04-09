@@ -14,7 +14,7 @@ pages:
   # CRM система
   - file: "CRM система/CRM для координаторов и чат-боты для волонетров.md"
     wiki_path: "/proekty-fonda/stable-support/crm/overview"
-    title: "CRM, Яндекс.Формы и MAX‑бот — обзор"
+    title: "CRM формы и MAX‑бот — обзор"
 
   - file: "CRM система/CRM для координаторов.md"
     wiki_path: "/proekty-fonda/stable-support/crm/crm"
