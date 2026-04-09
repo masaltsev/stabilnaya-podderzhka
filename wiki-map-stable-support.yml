@@ -13,8 +13,28 @@ pages:
 
   # CRM система
   - file: "CRM система/CRM для координаторов и чат-боты для волонетров.md"
-    wiki_path: "/proekty-fonda/stable-support/crm/crm-and-bots"
-    title: "CRM для координаторов и чат-боты для волонтеров"
+    wiki_path: "/proekty-fonda/stable-support/crm/overview"
+    title: "CRM, Яндекс.Формы и MAX‑бот — обзор"
+
+  - file: "CRM система/CRM для координаторов.md"
+    wiki_path: "/proekty-fonda/stable-support/crm/crm"
+    title: "CRM для координаторов"
+
+  - file: "CRM система/Яндекс.Формы.md"
+    wiki_path: "/proekty-fonda/stable-support/crm/yandex-forms"
+    title: "Яндекс.Формы"
+
+  - file: "CRM система/Чат-бот MAX для волонтеров.md"
+    wiki_path: "/proekty-fonda/stable-support/crm/max-bot"
+    title: "Чат-бот MAX для волонтеров"
+
+  - file: "CRM система/Дневник самонаблюдений — архитектура.md"
+    wiki_path: "/proekty-fonda/stable-support/crm/diary/architecture"
+    title: "Дневник самонаблюдений — архитектура"
+
+  - file: "CRM система/Релиз-ноутс/2026-04-09 — Дневник самонаблюдений.md"
+    wiki_path: "/proekty-fonda/stable-support/crm/release-notes/2026-04-09"
+    title: "Release notes (2026-04-09) — Дневник самонаблюдений"
 
   # Методические материалы — модель проекта и роли
   - file: "Методические материалы/00 - формальное описание проекта.md"
