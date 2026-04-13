@@ -88,53 +88,9 @@ pages:
     wiki_path: "/proekty-fonda/stable-support/training/coordinators"
     title: "Курс для координаторов"
 
-  - file: "Обучение/Курс для координаторов/тексты/01_Концепция_курса.md"
-    wiki_path: "/proekty-fonda/stable-support/training/coordinators/concept"
-    title: "Курс для координаторов — концепция"
-
-  - file: "Обучение/Курс для координаторов/тексты/02_Уроки_1-5.md"
-    wiki_path: "/proekty-fonda/stable-support/training/coordinators/lessons-1-5"
-    title: "Курс для координаторов — уроки 1-5"
-
-  - file: "Обучение/Курс для координаторов/тексты/03_Уроки_6-9.md"
-    wiki_path: "/proekty-fonda/stable-support/training/coordinators/lessons-6-9"
-    title: "Курс для координаторов — уроки 6-9"
-
   - file: "Обучение/Курс для волонтеров/README.md"
     wiki_path: "/proekty-fonda/stable-support/training/volunteers"
     title: "Курс для волонтеров"
-
-  - file: "Обучение/Курс для волонтеров/тексты/00_Сценарный_план_курса_для_волонтёров_сопровождения.md"
-    wiki_path: "/proekty-fonda/stable-support/training/course-script"
-    title: "Сценарный план курса для волонтеров сопровождения"
-
-  - file: "Обучение/Курс для волонтеров/тексты/расшифровки подкаста/01_Урок_1_Почему_общение_важнее_пакета_гречки.md"
-    wiki_path: "/proekty-fonda/stable-support/training/volunteers/transcripts/lesson-1"
-    title: "Курс для волонтеров — расшифровка урока 1"
-
-  - file: "Обучение/Курс для волонтеров/тексты/расшифровки подкаста/02_Урок_2_Видеть_личность_а_не_социальную_проблему.md"
-    wiki_path: "/proekty-fonda/stable-support/training/volunteers/transcripts/lesson-2"
-    title: "Курс для волонтеров — расшифровка урока 2"
-
-  - file: "Обучение/Курс для волонтеров/тексты/расшифровки подкаста/03_Урок_3_Малые_дела_и_зонтик_безопасности_волонтёра.md"
-    wiki_path: "/proekty-fonda/stable-support/training/volunteers/transcripts/lesson-3"
-    title: "Курс для волонтеров — расшифровка урока 3"
-
-  - file: "Обучение/Курс для волонтеров/тексты/расшифровки подкаста/04_Урок_4_Доверительный_диалог_с_подопечным.md"
-    wiki_path: "/proekty-fonda/stable-support/training/volunteers/transcripts/lesson-4"
-    title: "Курс для волонтеров — расшифровка урока 4"
-
-  - file: "Обучение/Курс для волонтеров/тексты/расшифровки подкаста/05_Урок_5_Как_волонтёру_помогать_и_не_выгореть.md"
-    wiki_path: "/proekty-fonda/stable-support/training/volunteers/transcripts/lesson-5"
-    title: "Курс для волонтеров — расшифровка урока 5"
-
-  - file: "Обучение/Курс для волонтеров/тексты/расшифровки подкаста/06_Урок_6_Почему_отчёт_в_боте_это_забота.md"
-    wiki_path: "/proekty-fonda/stable-support/training/volunteers/transcripts/lesson-6"
-    title: "Курс для волонтеров — расшифровка урока 6"
-
-  - file: "Обучение/Курс для волонтеров/тексты/расшифровки подкаста/07_Урок_7_Как_помогать_пожилым_и_не_выгореть.md"
-    wiki_path: "/proekty-fonda/stable-support/training/volunteers/transcripts/lesson-7"
-    title: "Курс для волонтеров — расшифровка урока 7"
 
   # Документы и соглашения — для благополучателей
   - file: "Документы, соглашения, памятки/Анкета для благополучателя для волонтерства сопровождения.md"
