@@ -84,7 +84,15 @@ pages:
     title: "Методичка: темы для общения"
 
   # Обучение
-  - file: "Обучение/Сценарный план курса для волонтеров сопровождения.md"
+  - file: "Обучение/Курс для координаторов/README.md"
+    wiki_path: "/proekty-fonda/stable-support/training/coordinators"
+    title: "Курс для координаторов"
+
+  - file: "Обучение/Курс для волонтеров/README.md"
+    wiki_path: "/proekty-fonda/stable-support/training/volunteers"
+    title: "Курс для волонтеров"
+
+  - file: "Обучение/Курс для волонтеров/тексты/00_Сценарный_план_курса_для_волонтёров_сопровождения.md"
     wiki_path: "/proekty-fonda/stable-support/training/course-script"
     title: "Сценарный план курса для волонтеров сопровождения"
 
